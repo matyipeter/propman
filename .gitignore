@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+
+# Django Secrets and Migrations
+*.sqlite3
+*.log
+db.sqlite3
+
+# IDE and System Files
+.vscode/
+*.pyc
+.env
+
+# Static and Media Files
+staticfiles/
+media/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
